@@ -1,6 +1,6 @@
-#SpringBoot Caching
+# SpringBoot Caching
 
-###Steps to be followed:
+### Steps to be followed:
 
 * Add EnableCaching annotation with a configuration class
 * Add a bean of Type CacheManager in the config class
