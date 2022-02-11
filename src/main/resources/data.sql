@@ -1,0 +1,4 @@
+INSERT INTO ticket(passenger_name,booking_date,source_station,dest_station,email) VALUES('Sean',parsedatetime('17-09-2012 18:47:52.69', 'dd-MM-yyyy hh:mm:ss.SS'),'Pune','Mumbai','sean.s2017@yahoo.com');
+INSERT INTO ticket(passenger_name,booking_date,source_station,dest_station,email) VALUES('Raj',parsedatetime('17-09-2012 18:47:52.69', 'dd-MM-yyyy hh:mm:ss.SS'),'Chennai','Mumbai','raj.s2007@siffy.com');
+INSERT INTO ticket(passenger_name,booking_date,source_station,dest_station,email) VALUES('Martin',parsedatetime('17-09-2012 18:47:52.69', 'dd-MM-yyyy hh:mm:ss.SS'),'Delhi','Mumbai','martin.s2001@xyz.com');
+INSERT INTO ticket(passenger_name,booking_date,source_station,dest_station,email) VALUES('John',parsedatetime('17-09-2012 18:47:52.69', 'dd-MM-yyyy hh:mm:ss.SS'),'Chennai','Mumbai','john.s2011@yahoo.com');
